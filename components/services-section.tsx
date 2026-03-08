@@ -51,7 +51,7 @@ export function ServicesSection() {
             Todo lo que tu negocio necesita en la web
           </h2>
           <p className="mt-4 text-lg leading-relaxed text-muted-foreground">
-            Ofrecemos un servicio completo para que tu negocio tenga la
+            Ofrezco un servicio completo para que tu negocio tenga la
             presencia digital que merece, sin complicaciones tecnicas.
           </p>
         </div>

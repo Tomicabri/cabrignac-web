@@ -13,7 +13,7 @@ export function ContactSection() {
       `Hola! Soy ${formData.name}. ${formData.message}`
     )
     window.open(
-      `https://wa.me/5493534000000?text=${whatsappMessage}`,
+      `https://wa.me/5493534781007?text=${whatsappMessage}`,
       "_blank"
     )
     setSubmitted(true)
@@ -39,7 +39,7 @@ export function ContactSection() {
 
             <div className="mt-10 flex flex-col gap-6">
               <a
-                href="https://wa.me/5493534000000"
+                href="https://wa.me/5493534781007"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group flex items-center gap-4 rounded-xl border border-primary-foreground/10 p-4 transition-colors hover:border-accent/30 hover:bg-accent/10"
@@ -60,7 +60,7 @@ export function ContactSection() {
               </a>
 
               <a
-                href="tel:+5493534000000"
+                href="tel:+5493534781007"
                 className="flex items-center gap-4 rounded-xl border border-primary-foreground/10 p-4 transition-colors hover:border-accent/30 hover:bg-accent/10"
               >
                 <div className="flex h-12 w-12 items-center justify-center rounded-lg bg-accent/10">
@@ -71,13 +71,13 @@ export function ContactSection() {
                     Telefono
                   </p>
                   <p className="text-sm text-primary-foreground/60">
-                    +54 353 4781007
+                    +54 9 353 4781007
                   </p>
                 </div>
               </a>
 
               <a
-                href="mailto:tomas@cabrignac.com"
+                href="mailto:cabrignacdev@gmail.com"
                 className="flex items-center gap-4 rounded-xl border border-primary-foreground/10 p-4 transition-colors hover:border-accent/30 hover:bg-accent/10"
               >
                 <div className="flex h-12 w-12 items-center justify-center rounded-lg bg-accent/10">
@@ -88,13 +88,13 @@ export function ContactSection() {
                     Email
                   </p>
                   <p className="text-sm text-primary-foreground/60">
-                    tomas@cabrignac.com
+                    cabrignacdev@gmail.com
                   </p>
                 </div>
               </a>
 
               <a
-                href="https://instagram.com/cabrignac.web"
+                href="https://www.instagram.com/cabrignacdev"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-4 rounded-xl border border-primary-foreground/10 p-4 transition-colors hover:border-accent/30 hover:bg-accent/10"

@@ -7,7 +7,7 @@ export function WhatsAppButton() {
 
   return (
     <a
-      href="https://wa.me/5493534000000?text=Hola!%20Me%20interesa%20una%20pagina%20web%20para%20mi%20negocio."
+      href="https://wa.me/5493534781007?text=Hola!%20Me%20interesa%20una%20pagina%20web%20para%20mi%20negocio."
       target="_blank"
       rel="noopener noreferrer"
       aria-label="Contactar por WhatsApp"

@@ -38,7 +38,7 @@ export function Navbar() {
             <span className="text-lg font-bold text-accent-foreground">C</span>
           </div>
           <span className="text-lg font-bold tracking-tight text-foreground">
-            Cabrignac
+            Cabrignacdev
           </span>
         </a>
 
